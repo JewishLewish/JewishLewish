@@ -1,16 +1,12 @@
-### Hi there 👋
+I go by many names but "JewishLewish" is my developer name. I mostly work on Python Development or Front-end Development. 
 
-<!--
-**JewishLewish/JewishLewish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,figma" />
+    <br />
+  </a>
+</p>
+<br />
+<div align=center><img src="https://github-readme-stats.vercel.app/api?username=jewishlewish&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=adb5bd&icon_color=D6D6D6&border_radius=10&show_icons=true&hide_border=true&hide=issues&hide_title=true&include_all_commits=true&count_private=true"><br /><br /><sub>Contact me on Discord @ <code>ЧеёнYoung#7428</code></sub></div>
