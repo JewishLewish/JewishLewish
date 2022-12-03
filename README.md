@@ -1,4 +1,6 @@
+<p align="center">
 I go by many names but "JewishLewish" is my developer name. I mostly work on Python Development or Front-end Development. 
+</p>
 
 <hr />
 
@@ -9,7 +11,6 @@ I go by many names but "JewishLewish" is my developer name. I mostly work on Pyt
   </a>
 </p>
 <br />
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jewishlewish&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=adb5bd&icon_color=D6D6D6" />
 </p>
