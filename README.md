@@ -6,7 +6,7 @@ I go by many names but "JewishLewish" is my developer name. I mostly work on Pyt
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,figma,nim" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,figma,nim,go" />
     <br />
   </a>
 </p>
